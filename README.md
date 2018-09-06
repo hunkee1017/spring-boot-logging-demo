@@ -25,9 +25,13 @@ $ docker run logging-demo 8080:8080
 ```
 
 **Connect to localhost:8080 via web browser.**
+
 ex) curl localhost:8080
+
 or
+
 ex) docker exec -ti d3af0da0160a curl localhost:8080
+
 
 **You can see "Hello World!" messages.**
 
